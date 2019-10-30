@@ -21,7 +21,7 @@ link to download the full source code -> (today it will be uploaded)
 <h5>full routes information displays when you tap show</h5>
 
 
-<img src="/images/route.png" width="300" height="500">
+<img src="/images/routes.png" width="300" height="500">
 
 
 
