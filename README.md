@@ -1,4 +1,4 @@
 # institute-bus-routes-android-app
 it is an institution bus route web app (android) having ability to show dynamically updated data.  
-<img src="/images/home.png" width="200" height="500">
+<img src="/images/home.png" width="300" height="500">
 
