@@ -10,5 +10,19 @@ link to download the full source code -> (today it will be uploaded)
 
 <h5>Bus stops are arranged in alphabetical sorted form (used label in blogger)</h5>
 
+
 <img src="/images/sorted.png" width="300" height="500">
+
+<h5>when you found a bus after querying in one of the two searches</h5>
+
+
+<img src="/images/result.png" width="300" height="500">
+
+<h5>full routes information displays when you tap show</h5>
+
+
+<img src="/images/result.png" width="300" height="500">
+
+
+
 
